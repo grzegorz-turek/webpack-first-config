@@ -1,1 +1,1 @@
-Webpack exercise: first webpack configuration
+Webpack exercise: first webpack configuration (results visible in console): https://grzegorz-turek.github.io/webpack-first-config/
