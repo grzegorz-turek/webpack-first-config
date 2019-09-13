@@ -1,1 +1,1 @@
-ES6 Exercise: Stoper: https://grzegorz-turek.github.io/es6-timer-react-V2/
+Webpack exercise: first webpack configuration
